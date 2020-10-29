@@ -5,4 +5,4 @@
 
 2. I used git log to show the hash of previous commit:daf68113480b5fb9d2bb882c93103b14ab62d738
 
-
+3. NO changes bucause we was on another branch.
