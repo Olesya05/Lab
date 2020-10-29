@@ -10,3 +10,5 @@
 4. NO changes because we was on another branch.
 
 5.WEB version
+
+6. I used `git pull` to synnchronizate web and local versiom.
