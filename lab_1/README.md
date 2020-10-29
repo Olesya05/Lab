@@ -12,4 +12,4 @@
 
 6. I used `git pull` to synnchronizate web and local versiom.
 
-7. ![](https://images.app.goo.gl/jnsJTWCGe4mw1Sir7)
+7. ![](https://res.cloudinary.com/prestige-gifting/image/fetch/fl_progressive,q_95,e_sharpen:50,w_480/e_saturation:05/t_free_chocs_overlay/https://www.prestigeflowers.co.uk/images/bd155c90d88e4af1c87b6ff2e4d1901d.jpg)
