@@ -1,0 +1,21 @@
+INFO 2021-01-16 18:45:18,306 root : Сервер доступний. Час на сервері: 2021-01-16T18:45:18.303850
+INFO 2021-01-16 18:45:18,307 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2021-01-16 18:45:18,307 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-16 18:45:18,309 root : Ключ: datetime, Значення: 2021-01-16T18:45:18.303850
+INFO 2021-01-16 18:45:18,309 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2021-01-16 18:45:18,309 root : Ключ: server_iinfo, Значення: {'system': 'posix', 'server_Login': 'olesia'}
+INFO 2021-01-16 18:45:18,309 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '127.0.0.1'}
+INFO 2021-01-16 18:46:18,365 root : Сервер доступний. Час на сервері: 2021-01-16T18:45:18.363911
+INFO 2021-01-16 18:46:18,366 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2021-01-16 18:46:18,366 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-16 18:46:18,366 root : Ключ: datetime, Значення: 2021-01-16T18:46:18.363911
+INFO 2021-01-16 18:46:18,366 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2021-01-16 18:46:18,366 root : Ключ: server_iinfo, Значення: {'system': 'posix', 'server_Login': 'olesia'}
+INFO 2021-01-16 18:46:18,366 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '127.0.0.1'}
+INFO 2021-01-16 18:47:18,415 root : Сервер доступний. Час на сервері: 2021-01-16T18:46:18.412715
+INFO 2021-01-16 18:47:18,415 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2021-01-16 18:47:18,415 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-16 18:47:18,415 root : Ключ: datetime, Значення: 2021-01-16T18:46:18.412715
+INFO 2021-01-16 18:47:18,415 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2021-01-16 18:47:18,415 root : Ключ: server_iinfo, Значення: {'system': 'posix', 'server_Login': 'olesia'}
+INFO 2021-01-16 18:47:18,416 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.25.0', 'remote addr': '127.0.0.1'}
